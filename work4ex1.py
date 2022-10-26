@@ -17,3 +17,6 @@ else:
     x2 = (-B - math.sqrt(D)) / (2 * A)
     print(x1, x2)
 
+
+
+
